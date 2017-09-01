@@ -1,6 +1,5 @@
 ﻿using Fiver.Api.Async.Lib;
 using Fiver.Api.Async.Models.Rentals;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
